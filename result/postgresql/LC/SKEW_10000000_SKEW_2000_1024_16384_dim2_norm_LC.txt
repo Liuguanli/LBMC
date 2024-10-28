@@ -1,0 +1,25 @@
+
+
+finish running, time usage: 73.82031500339508 ms
+avg block hit: 1236.766, avg block read:5027.6855, avg block access:6264.451499999999
+all_result_num: 1746551
+
+
+finish running, time usage: 75.38351941108704 ms
+avg block hit: 1234.861, avg block read:5033.6825, avg block access:6268.5435
+all_result_num: 1716075
+
+
+finish running, time usage: 74.34720027446747 ms
+avg block hit: 1234.2795, avg block read:5034.268, avg block access:6268.547500000001
+all_result_num: 1714277
+
+
+finish running, time usage: 74.77500379085541 ms
+avg block hit: 1234.8875, avg block read:5033.663, avg block access:6268.550499999999
+all_result_num: 1714216
+
+
+finish running, time usage: 74.9096382856369 ms
+avg block hit: 1235.0865, avg block read:5033.3845, avg block access:6268.471
+all_result_num: 1714174

@@ -1,0 +1,11 @@
+{
+"layout": "z-order",
+"query num": "100",
+"name": "tpc_1",
+"measurements": [
+{"query": "Q1", "cpuTime": 2120, "IO":240.40},
+{"query": "Q2", "cpuTime": 366, "IO":59.92},
+{"query": "Q3", "cpuTime": 581, "IO":121.70},
+{"query": "Q4", "cpuTime": 519, "IO":120.41},
+{"query": "Q5", "cpuTime": 574, "IO":60.06}
+]}

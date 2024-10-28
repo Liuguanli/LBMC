@@ -1,0 +1,154 @@
+time usage: 153.2249948978424 s
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 99.06161189079285 ms
+avg block hit: 667.199, avg block read:5739.2575, avg block access:6406.456499999999
+time usage: 15.371315479278564 s
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 78.82441592216492 ms
+avg block hit: 595.795, avg block read:2042.6505, avg block access:2638.4455
+all_result_num: 172416502
+1024 16384
+1024 16384
+time usage: 14.854788064956665 s
+finish running, time usage: 0.08842635154724121 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+------Using memory to test------
+memory time usage: 0.015701770782470703 ms
+memory all result number: 0
+1024 16384
+time usage: 14.934160709381104 s
+finish running, time usage: 0.07598364353179932 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+------Using memory to test------
+1024 16384
+time usage: 14.904737710952759 s
+finish running, time usage: 0.0778353214263916 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+1024 16384
+time usage: 15.252875804901123 s
+finish running, time usage: 0.07723498344421387 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+------Using memory to test------
+w_x1: 546450 w_y1: 801263 w_x2: 547474 w_y2: 817647 val_1: 572995156463 val_2: 574068914671 bit_distribution: AAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBB
+start_index: 0 end_index: 0
+1024 16384
+time usage: 15.095940589904785 s
+finish running, time usage: 0.07854688167572021 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+------Using memory to test------
+w_x1: 546450 w_y1: 801263 w_x2: 547474 w_y2: 817647 val_1: 572995156463 val_2: 574068914671 bit_distribution: AAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBB
+start_index: 0 end_index: 0
+args.dataset: NYC_10000000
+1024 16384
+time usage: 15.200066566467285 s
+finish running, time usage: 0.07618701457977295 ms
+avg block hit: 0.0, avg block read:0.0, avg block access:0.0
+all_result_num: 0
+1024 16384
+time usage: 14.964620351791382 s
+1024 16384
+time usage: 15.034642696380615 s
+finish running, time usage: 77.36445689201355 ms
+avg block hit: 595.847, avg block read:2042.5985, avg block access:2638.4455
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 161.38270139694214 ms
+memory all result number: 172416502
+1024 16384
+learning cost:both
+1024 16384
+learning cost:both
+time usage: 14.951795101165771 s
+finish running, time usage: 78.4137761592865 ms
+avg block hit: 595.789, avg block read:2042.657, avg block access:2638.446
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 165.89409804344177 ms
+memory all result number: 172416502
+1024 16384
+learning cost:global
+time usage: 15.072237253189087 s
+finish running, time usage: 77.89813649654388 ms
+avg block hit: 595.9885, avg block read:2042.2525, avg block access:2638.241
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 165.86838388442993 ms
+memory all result number: 172416502
+1024 16384
+learning cost:local
+time usage: 14.98013424873352 s
+finish running, time usage: 78.06553423404694 ms
+avg block hit: 596.03, avg block read:2042.208, avg block access:2638.2380000000003
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 164.33259057998657 ms
+memory all result number: 172416502
+1024 16384
+learning cost:sum
+time usage: 15.098896503448486 s
+finish running, time usage: 78.2321025133133 ms
+avg block hit: 595.7885, avg block read:2042.657, avg block access:2638.4455
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 166.85384273529053 ms
+memory all result number: 172416502
+1024 16384
+
+
+learning cost:product
+time usage: 14.93469500541687 s
+finish running, time usage: 77.78511440753937 ms
+avg block hit: 595.6665, avg block read:2042.779, avg block access:2638.4455
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 163.56778836250305 ms
+memory all result number: 172416502
+1024 16384
+
+
+learning cost:sum
+time usage: 16.1726987361908 s
+finish running, time usage: 87.724067568779 ms
+avg block hit: 637.3631, avg block read:2185.7734, avg block access:2823.1366
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 609.5066781044006 ms
+memory all result number: 172416502
+
+
+
+1024 16384
+learning cost:sum
+reward_decreased_num: 879
+result_BMC: AAAABBABABBAABAABABBABBBABABABAABBABAABB
+time usage: 6.357682466506958 s
+finish running, time usage: 135.1293829679489 ms
+avg block hit: 1053.646, avg block read:6776.4215, avg block access:7830.0675
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 451.376815199852 ms
+memory all result number: 172416502
+
+
+1024 16384
+learning cost:product
+reward_decreased_num: 1634
+result_BMC: AABBABAAAABABBABBBAAAABBABBABABBBAABAABB
+time usage: 6.492719888687134 s
+finish running, time usage: 133.25357329845428 ms
+avg block hit: 882.7555, avg block read:6749.423, avg block access:7632.1785
+all_result_num: 172416502
+------Using memory to test------
+memory time usage: 441.3452309370041 ms
+memory all result number: 172416502

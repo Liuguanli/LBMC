@@ -1,0 +1,7 @@
+{
+"layout": "bmc",
+"query num": "1000",
+"name": "tpc_2",
+"measurements": [
+{"query": "Q5", "cpuTime": 1327, "IO":102.48}
+]}

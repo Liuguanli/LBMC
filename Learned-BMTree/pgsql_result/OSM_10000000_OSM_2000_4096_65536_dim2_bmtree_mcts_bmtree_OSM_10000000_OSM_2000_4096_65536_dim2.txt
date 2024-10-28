@@ -1,0 +1,11 @@
+-------------branch: exp_extension
+--load data and query--
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 147.27027118206024 ms
+avg block hit: 915.6795, avg block read:4863.8525, avg block access:5779.532
+all_result_num: 292933596

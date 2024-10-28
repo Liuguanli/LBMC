@@ -1,0 +1,6 @@
+finish running, time usage: 69.36039328575134 ms
+avg block hit: 1016.8, avg block read:4138.3325, avg block access:5155.132500000001
+all_result_num: 4035016
+finish running, time usage: 69.55841720104218 ms
+avg block hit: 1021.3275, avg block read:4133.805, avg block access:5155.132500000001
+all_result_num: 4035016

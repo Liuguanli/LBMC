@@ -1,0 +1,11 @@
+{
+"layout": "hilbert",
+"query num": "100",
+"name": "nyc",
+"measurements": [
+{"query": "Q1", "cpuTime": 1567, "IO":391.56},
+{"query": "Q2", "cpuTime": 1290, "IO":195.40},
+{"query": "Q3", "cpuTime": 1267, "IO":190.33},
+{"query": "Q4", "cpuTime": 417, "IO":76.92},
+{"query": "Q5", "cpuTime": 308, "IO":179.77}
+]}

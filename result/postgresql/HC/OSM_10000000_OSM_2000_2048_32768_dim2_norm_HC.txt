@@ -1,0 +1,6 @@
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 80.36771166324615 ms
+avg block hit: 697.884, avg block read:5877.4085, avg block access:6575.2925

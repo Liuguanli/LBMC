@@ -1,0 +1,37 @@
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 10.229060769081116 ms
+avg block hit: 142.4855, avg block read:528.078, avg block access:670.5635
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 10.21720564365387 ms
+avg block hit: 142.4855, avg block read:528.078, avg block access:670.5635
+
+
+finish running, time usage: 10.506444931030273 ms
+avg block hit: 142.8295, avg block read:525.1095, avg block access:667.9390000000001
+all_result_num: 1746551
+
+
+finish running, time usage: 10.506575107574463 ms
+avg block hit: 142.4855, avg block read:528.078, avg block access:670.5635
+all_result_num: 1716075
+
+
+finish running, time usage: 10.456880927085876 ms
+avg block hit: 142.485, avg block read:528.0765, avg block access:670.5615
+all_result_num: 1714277
+
+
+finish running, time usage: 10.512292504310608 ms
+avg block hit: 142.5015, avg block read:528.06, avg block access:670.5614999999999
+all_result_num: 1714216
+
+
+finish running, time usage: 10.590177178382874 ms
+avg block hit: 142.485, avg block read:528.0765, avg block access:670.5615
+all_result_num: 1714174

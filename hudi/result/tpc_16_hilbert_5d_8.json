@@ -1,0 +1,7 @@
+{
+"layout": "hilbert",
+"query num": "100",
+"name": "tpc_16",
+"measurements": [
+{"query": "Q5", "cpuTime": 5678, "IO":1127.63}
+]}

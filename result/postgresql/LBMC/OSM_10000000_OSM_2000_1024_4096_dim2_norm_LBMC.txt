@@ -1,0 +1,15 @@
+time usage: 155.06530737876892 s
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 18.15541410446167 ms
+avg block hit: 263.4045, avg block read:991.756, avg block access:1255.1605
+time usage: 15.685919046401978 s
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 18.82236361503601 ms
+avg block hit: 259.9695, avg block read:797.21, avg block access:1057.1795
+all_result_num: 12389540

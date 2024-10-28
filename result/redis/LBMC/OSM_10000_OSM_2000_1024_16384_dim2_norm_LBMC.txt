@@ -1,0 +1,10 @@
+
+1024 16384
+json_path ./python/configs/config_1024_16384.json
+learning cost:both
+reward_decreased_num: 273
+result_BMC: AAAAABAAAAAAAAAAABBBBABABBBBBBBABBBBABBB
+time usage: 6.27707576751709 s
+finish running, query time usage: 0.2201380729675293 ms
+finish running, filter time usage: 0.323522686958313 ms
+all_result_num: 0

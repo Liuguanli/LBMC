@@ -1,0 +1,59 @@
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 45.9628027677536 ms
+avg block hit: 611.6165, avg block read:2797.2365, avg block access:3408.853
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 45.57062339782715 ms
+avg block hit: 611.601, avg block read:2797.252, avg block access:3408.853
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 50.420730113983154 ms
+avg block hit: 611.6015, avg block read:2797.2515, avg block access:3408.853
+all_result_num: 35911730
+cost initition time usage: 0.20220565795898438 s
+curve design time usage: 0.013197898864746094 s
+finish running, time usage: 25.277619242668152 ms
+avg block hit: 280.542, avg block read:880.5065, avg block access:1161.0484999999999
+all_result_num: 35911730
+
+
+cost initition time usage: 0.1368558406829834 s
+curve design time usage: 0.013754606246948242 s
+finish running, time usage: 24.528515577316284 ms
+avg block hit: 279.68, avg block read:826.882, avg block access:1106.562
+all_result_num: 36500290
+
+
+cost initition time usage: 0.19774723052978516 s
+curve design time usage: 0.013219118118286133 s
+finish running, time usage: 25.082889676094055 ms
+avg block hit: 279.874, avg block read:881.1745, avg block access:1161.0484999999999
+all_result_num: 35911730
+
+
+cost initition time usage: 0.28148746490478516 s
+curve design time usage: 0.014796257019042969 s
+finish running, time usage: 25.550986289978027 ms
+avg block hit: 279.9065, avg block read:881.141, avg block access:1161.0475
+all_result_num: 35872796
+
+
+cost initition time usage: 0.36641788482666016 s
+curve design time usage: 0.01445627212524414 s
+finish running, time usage: 25.375646352767944 ms
+avg block hit: 275.4005, avg block read:871.907, avg block access:1147.3075000000001
+all_result_num: 35870571
+
+
+cost initition time usage: 0.43732714653015137 s
+curve design time usage: 0.013966560363769531 s
+finish running, time usage: 26.307654857635498 ms
+avg block hit: 300.233, avg block read:957.735, avg block access:1257.968
+all_result_num: 35870571

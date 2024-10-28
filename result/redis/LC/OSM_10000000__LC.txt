@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+./Learned-BMTree/query/OSM_1000_norm_incremental.json
+./Learned-BMTree/query/.json
+
+
+finish running, query time usage: 130.12406373023987 ms
+finish running, filter time usage: 291.94883704185486 ms
+all_result_num: 0

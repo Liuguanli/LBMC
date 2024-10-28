@@ -1,0 +1,11 @@
+{
+"layout": "bmc",
+"query num": "1000",
+"name": "tpc_8",
+"measurements": [
+{"query": "Q1", "cpuTime": 18254, "IO":1559.54},
+{"query": "Q2", "cpuTime": 1617, "IO":388.71},
+{"query": "Q3", "cpuTime": 4731, "IO":788.00},
+{"query": "Q4", "cpuTime": 3092, "IO":782.65},
+{"query": "Q5", "cpuTime": 2287, "IO":388.18}
+]}

@@ -1,0 +1,264 @@
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 186.37987160682678 ms
+finish running, filter time usage: 383.7073395252228 ms
+all_result_num: 326331916
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 135.49165642261505 ms
+finish running, filter time usage: 266.4127402305603 ms
+all_result_num: 234832696
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 223.84896337985992 ms
+finish running, filter time usage: 450.83494901657104 ms
+all_result_num: 389750250
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 188.5513232946396 ms
+finish running, filter time usage: 380.2947609424591 ms
+all_result_num: 322005711
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 145.1755360364914 ms
+finish running, filter time usage: 300.45422983169556 ms
+all_result_num: 257439692
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 154.83335030078888 ms
+finish running, filter time usage: 304.6188255548477 ms
+all_result_num: 264301379
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 174.37090635299683 ms
+finish running, filter time usage: 349.25326573848724 ms
+all_result_num: 303675868
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 150.46324229240417 ms
+finish running, filter time usage: 306.01473116874695 ms
+all_result_num: 262959663
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 144.38031768798828 ms
+finish running, filter time usage: 293.41005277633667 ms
+all_result_num: 247387957
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 164.63462328910828 ms
+finish running, filter time usage: 335.03764748573303 ms
+all_result_num: 288700220
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 130.28575158119202 ms
+finish running, filter time usage: 286.3882806301117 ms
+all_result_num: 227307064
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 148.88109970092773 ms
+finish running, filter time usage: 301.96739399433136 ms
+all_result_num: 261572162
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 157.71619153022766 ms
+finish running, filter time usage: 318.6772164106369 ms
+all_result_num: 276361194
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 126.12034749984741 ms
+finish running, filter time usage: 254.6807817220688 ms
+all_result_num: 221282860
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 178.9390345811844 ms
+finish running, filter time usage: 359.3747397661209 ms
+all_result_num: 308376807
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 174.77428925037384 ms
+finish running, filter time usage: 358.3675217628479 ms
+all_result_num: 299726208
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 119.5099447965622 ms
+finish running, filter time usage: 241.69675278663635 ms
+all_result_num: 208157870
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 170.68556082248688 ms
+finish running, filter time usage: 343.1876171827316 ms
+all_result_num: 301068695
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 182.68220961093903 ms
+finish running, filter time usage: 366.26870369911194 ms
+all_result_num: 317889881
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 119.01150131225586 ms
+finish running, filter time usage: 237.42102587223053 ms
+all_result_num: 206161912
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 172.70053708553314 ms
+finish running, filter time usage: 329.98325312137604 ms
+all_result_num: 289359925
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 170.51803958415985 ms
+finish running, filter time usage: 355.8408979177475 ms
+all_result_num: 304414940
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 117.22608196735382 ms
+finish running, filter time usage: 237.00693559646606 ms
+all_result_num: 205159666
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 189.88584697246552 ms
+finish running, filter time usage: 378.77014005184174 ms
+all_result_num: 329917946
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 175.71647667884827 ms
+finish running, filter time usage: 355.9547619819641 ms
+all_result_num: 296302099
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 116.86385035514832 ms
+finish running, filter time usage: 234.55638420581818 ms
+all_result_num: 204794942
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 187.91638696193695 ms
+finish running, filter time usage: 386.4962443113327 ms
+all_result_num: 324551754
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 163.64906811714172 ms
+finish running, filter time usage: 322.5748436450958 ms
+all_result_num: 280727923
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 118.3236665725708 ms
+finish running, filter time usage: 234.29654562473297 ms
+all_result_num: 205175547
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 148.9249097108841 ms
+finish running, filter time usage: 314.9724895954132 ms
+all_result_num: 258944174
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+finish running, query time usage: 124.2381238937378 ms
+finish running, filter time usage: 255.27264511585236 ms
+all_result_num: 215114934
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+finish running, query time usage: 117.28951406478882 ms
+finish running, filter time usage: 241.86525535583496 ms
+all_result_num: 204737159
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+finish running, query time usage: 148.7498904466629 ms
+finish running, filter time usage: 303.2743582725525 ms
+all_result_num: 259339273

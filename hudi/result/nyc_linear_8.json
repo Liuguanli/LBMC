@@ -1,0 +1,11 @@
+{
+"layout": "linear",
+"query num": "1000",
+"name": "nyc",
+"measurements": [
+{"query": "Q1", "cpuTime": 1312, "IO":392.21},
+{"query": "Q2", "cpuTime": 815, "IO":186.98},
+{"query": "Q3", "cpuTime": 596, "IO":198.26},
+{"query": "Q4", "cpuTime": 293, "IO":79.10},
+{"query": "Q5", "cpuTime": 318, "IO":202.72}
+]}

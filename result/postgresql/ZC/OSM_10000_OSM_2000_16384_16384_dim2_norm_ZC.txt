@@ -1,0 +1,18 @@
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 0.2145078182220459 ms
+The number of records is: 1
+avg block hit: 10.4915, avg block read:0.013, avg block access:10.5045
+--create table--
+--finished--
+--build finished--
+--start window query--
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 0.2579880952835083 ms
+avg block hit: 10.4915, avg block read:0.013, avg block access:10.5045
+average_result_num: 147.298

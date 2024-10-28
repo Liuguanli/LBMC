@@ -1,0 +1,11 @@
+{
+"layout": "hilbert",
+"query num": "1000",
+"name": "tpc_2",
+"measurements": [
+{"query": "Q1", "cpuTime": 6923, "IO":495.53},
+{"query": "Q2", "cpuTime": 1350, "IO":124.58},
+{"query": "Q3", "cpuTime": 2711, "IO":252.63},
+{"query": "Q4", "cpuTime": 1506, "IO":246.45},
+{"query": "Q5", "cpuTime": 2568, "IO":124.50}
+]}

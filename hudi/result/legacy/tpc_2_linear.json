@@ -1,0 +1,11 @@
+{
+"layout": "linear",
+"query num": "1000",
+"name": "tpc_2",
+"measurements": [
+{"query": "Q1", "cpuTime": 5837, "IO":491.49},
+{"query": "Q2", "cpuTime": 1203, "IO":125.20},
+{"query": "Q3", "cpuTime": 2248, "IO":254.06},
+{"query": "Q4", "cpuTime": 690, "IO":241.19},
+{"query": "Q5", "cpuTime": 2031, "IO":125.09}
+]}

@@ -1,0 +1,55 @@
+
+
+1024 16384
+json_path ./python/configs/config_1024_16384_16.json
+learning cost:both
+reward_decreased_num: 752
+result_BMC: AABAAAABAAAABAAAABBBBABABBBBBBBB
+time usage: 5.939130067825317 s
+finish running, time usage: 4.979465007781982 ms
+avg block hit: 29.971, avg block read:153.59, avg block access:183.561
+all_result_num: 1746551
+
+
+1024 16384
+json_path ./python/configs/config_1024_16384.json
+learning cost:both
+reward_decreased_num: 2572
+result_BMC: AAAAABAAAABABAAAAAAABABBBBAABBBBBBBBBBBB
+time usage: 6.306195974349976 s
+finish running, time usage: 4.3325642347335815 ms
+avg block hit: 24.993, avg block read:97.419, avg block access:122.41199999999999
+all_result_num: 1716075
+
+
+1024 16384
+json_path ./python/configs/config_1024_16384_24.json
+learning cost:both
+reward_decreased_num: 242
+result_BMC: AAAAAAAAAAAAABAABBAAAAAAABBBABBABBBBBBBBBBBBBBBB
+time usage: 6.75658917427063 s
+finish running, time usage: 4.245622634887695 ms
+avg block hit: 23.8415, avg block read:87.3, avg block access:111.1415
+all_result_num: 1714277
+
+
+1024 16384
+json_path ./python/configs/config_1024_16384_28.json
+learning cost:both
+reward_decreased_num: 158
+result_BMC: AAAAAAAAAAAAAAAAAAAAAAAABBBBBABAABBBBBBBABBBBBBBBBBBBBBB
+time usage: 6.813074111938477 s
+finish running, time usage: 4.2414103746414185 ms
+avg block hit: 23.837, avg block read:87.2685, avg block access:111.1055
+all_result_num: 1714216
+
+
+1024 16384
+json_path ./python/configs/config_1024_16384_31.json
+learning cost:both
+reward_decreased_num: 220
+result_BMC: AAAAAAAAAAAAAAAAAAAAAAAABABABAABBBABBBABABBBBBBBBBBBBBBBBBBBBB
+time usage: 7.139775991439819 s
+finish running, time usage: 4.266400575637817 ms
+avg block hit: 23.8375, avg block read:87.268, avg block access:111.1055
+all_result_num: 1714174

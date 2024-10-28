@@ -1,0 +1,7 @@
+{
+  "init": "AAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBB",
+  "cost": "both",
+  "iteration": "20000",
+  "memory_size": "1000",
+  "is_reward_zero": "0"
+}

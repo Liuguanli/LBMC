@@ -1,0 +1,15 @@
+{
+"layout": "bmc",
+"query num": "100",
+"name": "nyc",
+"measurements": [
+{"query": "Q1", "cpuTime": 1602, "IO":391.10},
+{"query": "Q1-1", "cpuTime": 1230, "IO":391.10},
+{"query": "Q2", "cpuTime": 1288, "IO":195.61},
+{"query": "Q2-1", "cpuTime": 640, "IO":202.63},
+{"query": "Q3", "cpuTime": 1231, "IO":188.55},
+{"query": "Q3-1", "cpuTime": 612, "IO":192.32},
+{"query": "Q4", "cpuTime": 367, "IO":74.35},
+{"query": "Q4-1", "cpuTime": 295, "IO":76.65},
+{"query": "Q5", "cpuTime": 305, "IO":176.72}
+]}

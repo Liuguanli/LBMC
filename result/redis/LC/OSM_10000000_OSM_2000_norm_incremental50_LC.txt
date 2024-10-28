@@ -1,0 +1,9 @@
+
+
+
+
+test_redis
+bit_distribution: BBBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAAAA
+finish running, query time usage: 128.76329588890076 ms
+finish running, filter time usage: 294.1063506603241 ms
+all_result_num: 0

@@ -1,0 +1,35 @@
+-------------branch: exp_extension
+--load data and query--
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 0.136468768119812 ms
+avg block hit: 6.93, avg block read:0.013, avg block access:6.943
+all_result_num: 35362
+-------------branch: vldb24_revision
+--load data and query--
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 0.07555258274078369 ms
+avg block hit: 2.1345, avg block read:0.013, avg block access:2.1475
+all_result_num: 2
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 0.06877589225769043 ms
+avg block hit: 2.1345, avg block read:0.013, avg block access:2.1475
+all_result_num: 2

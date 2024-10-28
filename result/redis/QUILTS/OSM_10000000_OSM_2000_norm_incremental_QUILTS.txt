@@ -1,0 +1,7 @@
+
+
+cost initition time usage: 0.20665907859802246 s
+curve design time usage: 0.014333009719848633 s
+finish running, query time usage: 253.07647800445557 ms
+finish running, filter time usage: 525.3249835968018 ms
+all_result_num: 0

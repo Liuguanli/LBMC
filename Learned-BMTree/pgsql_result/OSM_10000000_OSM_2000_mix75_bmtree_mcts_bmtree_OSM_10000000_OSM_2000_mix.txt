@@ -1,0 +1,528 @@
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 23.63906955718994 ms
+avg block hit: 227.94666666666666, avg block read:1390.416, avg block access:1618.3626666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_5_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 29.748302618662517 ms
+avg block hit: 291.456, avg block read:1813.872, avg block access:2105.328
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_10_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 24.48946412404378 ms
+avg block hit: 276.08133333333336, avg block read:1412.546, avg block access:1688.6273333333334
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_15_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 26.90594704945882 ms
+avg block hit: 245.98666666666668, avg block read:1655.5413333333333, avg block access:1901.528
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_20_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 33.76678657531738 ms
+avg block hit: 359.38933333333335, avg block read:2080.3613333333333, avg block access:2439.750666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_50_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 23.717987060546875 ms
+avg block hit: 258.96066666666667, avg block read:1375.842, avg block access:1634.8026666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_100_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 20.40538803736369 ms
+avg block hit: 226.32866666666666, avg block read:1121.33, avg block access:1347.6586666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 18.073954741160076 ms
+avg block hit: 192.43466666666666, avg block read:952.1973333333333, avg block access:1144.632
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.23510980606079 ms
+avg block hit: 190.46466666666666, avg block read:881.9326666666667, avg block access:1072.3973333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.622007687886555 ms
+avg block hit: 190.946, avg block read:921.8213333333333, avg block access:1112.7673333333332
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_2000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.879112243652344 ms
+avg block hit: 187.702, avg block read:946.5866666666667, avg block access:1134.2886666666668
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 41.72526057561239 ms
+avg block hit: 450.42133333333334, avg block read:2598.016, avg block access:3048.4373333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_5_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.75893497467041 ms
+avg block hit: 197.76533333333333, avg block read:929.8006666666666, avg block access:1127.566
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_10_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.85672362645467 ms
+avg block hit: 216.23933333333332, avg block read:900.7626666666666, avg block access:1117.002
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_15_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 19.110040823618572 ms
+avg block hit: 208.62066666666666, avg block read:1024.3646666666666, avg block access:1232.9853333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_20_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 44.2745353380839 ms
+avg block hit: 446.2513333333333, avg block read:2764.596666666667, avg block access:3210.848
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_50_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 40.31977907816569 ms
+avg block hit: 369.07466666666664, avg block read:2628.3126666666667, avg block access:2997.387333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_100_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 16.05266014734904 ms
+avg block hit: 175.66133333333335, avg block read:776.498, avg block access:952.1593333333334
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.294333457946777 ms
+avg block hit: 206.25, avg block read:841.4106666666667, avg block access:1047.6606666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.109689712524414 ms
+avg block hit: 205.57666666666665, avg block read:841.334, avg block access:1046.9106666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 15.74260171254476 ms
+avg block hit: 165.882, avg block read:766.1213333333334, avg block access:932.0033333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_2000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.009119510650635 ms
+avg block hit: 201.68866666666668, avg block read:841.5026666666666, avg block access:1043.1913333333332
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 18.431528727213543 ms
+avg block hit: 187.34, avg block read:998.0806666666666, avg block access:1185.4206666666666
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_5_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 19.95813751220703 ms
+avg block hit: 190.53066666666666, avg block read:1129.132, avg block access:1319.6626666666666
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_10_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 16.745043118794758 ms
+avg block hit: 199.648, avg block read:843.1753333333334, avg block access:1042.8233333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_15_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 18.056355317433674 ms
+avg block hit: 206.71666666666667, avg block read:950.7053333333333, avg block access:1157.422
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_20_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 26.125377655029297 ms
+avg block hit: 234.662, avg block read:1619.1926666666666, avg block access:1853.8546666666666
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_50_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 26.287922700246174 ms
+avg block hit: 222.936, avg block read:1643.2713333333334, avg block access:1866.2073333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_100_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 36.425140698750816 ms
+avg block hit: 318.92333333333335, avg block read:2421.746, avg block access:2740.6693333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 16.365505536397297 ms
+avg block hit: 187.814, avg block read:806.4426666666667, avg block access:994.2566666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 18.89058844248454 ms
+avg block hit: 172.36733333333333, avg block read:1057.722, avg block access:1230.0893333333333
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.561299800872803 ms
+avg block hit: 219.51666666666668, avg block read:893.586, avg block access:1113.1026666666667
+all_result_num: 8101892
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_2000_mix
+testing query: OSM_2000_mix75
+action_depth: 10
+finish running, time usage: 17.732556502024334 ms
+avg block hit: 219.588, avg block read:911.748, avg block access:1131.336
+all_result_num: 8101892

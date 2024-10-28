@@ -1,0 +1,47 @@
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 10.317346692085266 ms
+avg block hit: 143.4635, avg block read:531.442, avg block access:674.9055000000001
+--create table--
+--finished--
+--build finished--
+--start window query--
+finish running, time usage: 10.303467154502869 ms
+avg block hit: 143.4635, avg block read:531.442, avg block access:674.9055000000001
+
+
+cost initition time usage: 0.12786173820495605 s
+curve design time usage: 0.012893199920654297 s
+finish running, time usage: 4.170332670211792 ms
+avg block hit: 24.7685, avg block read:93.9435, avg block access:118.712
+all_result_num: 1746551
+
+
+cost initition time usage: 0.19591879844665527 s
+curve design time usage: 0.01367807388305664 s
+finish running, time usage: 4.227783560752869 ms
+avg block hit: 24.9855, avg block read:94.1565, avg block access:119.142
+all_result_num: 1716075
+
+
+cost initition time usage: 0.2785160541534424 s
+curve design time usage: 0.014812946319580078 s
+finish running, time usage: 4.200267910957336 ms
+avg block hit: 24.996, avg block read:94.143, avg block access:119.139
+all_result_num: 1714277
+
+
+cost initition time usage: 0.3797299861907959 s
+curve design time usage: 0.014276742935180664 s
+finish running, time usage: 4.197327733039856 ms
+avg block hit: 24.295, avg block read:93.053, avg block access:117.348
+all_result_num: 1714216
+
+
+cost initition time usage: 0.4636547565460205 s
+curve design time usage: 0.014066696166992188 s
+finish running, time usage: 4.296798944473267 ms
+avg block hit: 25.7895, avg block read:98.9825, avg block access:124.772
+all_result_num: 1714174

@@ -1,0 +1,11 @@
+{
+"layout": "bmc",
+"query num": "100",
+"name": "nyc",
+"measurements": [
+{"query": "Q1", "cpuTime": 1628, "IO":393.07},
+{"query": "Q2", "cpuTime": 1334, "IO":196.33},
+{"query": "Q3", "cpuTime": 1283, "IO":191.24},
+{"query": "Q4", "cpuTime": 396, "IO":77.19},
+{"query": "Q5", "cpuTime": 309, "IO":180.61}
+]}

@@ -1,0 +1,45 @@
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: global -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_incremental
+testing query: OSM_1500_incremental
+finish running, time usage: 26.42021910349528 ms
+avg block hit: 308.964, avg block read:1147.7393333333334, avg block access:1456.7033333333334
+all_result_num: 20594495
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: local -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_incremental
+testing query: OSM_1500_incremental
+finish running, time usage: 23.505120277404785 ms
+avg block hit: 252.814, avg block read:936.3673333333334, avg block access:1189.1813333333334
+all_result_num: 20594495
+-------------branch: vldb24_revision
+--load data and query--
+-------------cost: sampling -------------
+
+--start build bmtree index--
+--start build the database environment--
+--create table--
+--finished--
+--build finished--
+--start window query--
+training query: OSM_1500_incremental
+testing query: OSM_1500_incremental
+finish running, time usage: 28.68453884124756 ms
+avg block hit: 355.542, avg block read:1314.5133333333333, avg block access:1670.0553333333332
+all_result_num: 20594495
