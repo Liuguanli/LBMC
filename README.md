@@ -27,19 +27,18 @@ Please refer to [```calculate_drop_pattern```](
 https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L50)
 and [```calculate_rise_pattern```](https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L64).
 
-You can find the description of the above code in Page 6 around Line 678 with highlighted title: "Efficient counting of rise and drop patterns."
 
 
 #### Cost for *n* queries and *m* BMCs:
 
 Global Cost: please refer to [```global_cost```](https://github.com/Liuguanli/LBMC/tree/main/python/global_cost.py#L115)
 
-Please refer to formula (6) in Page 5 around line 470.
+Please refer to formula (5).
 
 
 Local Cost: Please refer to [```local_cost```](https://github.com/Liuguanli/LBMC/tree/main/python/local_cost.py#L137)
 
-Please refer to Algorithm 2 in Page 8 around line 813.
+Please refer to Algorithm 1.
 
 ### E2:
 
