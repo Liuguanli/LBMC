@@ -1,11 +1,6 @@
 ## LBMC
 
 
-### Temporary Link to the Code
-
-Our code is temporarily hosted at the following link: [LBMC Repository](https://github.com/Liuguanli/LBMC/tree/main/README.md). The full release will be made available here shortly.
-
-
 ### E1:
 
 #### The verification of the correctness of our cost modelling
