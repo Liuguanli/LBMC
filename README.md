@@ -3,13 +3,13 @@
 
 ### Temporary Link to the Code
 
-Our code is temporarily hosted at the following link: [LBMC Repository](https://anonymous.4open.science/r/LearnSFC-B6D8/README.md). The full release will be made available here shortly.
+Our code is temporarily hosted at the following link: [LBMC Repository](https://github.com/Liuguanli/LBMC/tree/main/README.md). The full release will be made available here shortly.
 
 
 ### E1:
 
 #### The verification of the correctness of our cost modelling
-[./python/verify_cost.py](https://anonymous.4open.science/r/LearnSFC-B6D8/python/verify_cost.py)
+[./python/verify_cost.py](https://github.com/Liuguanli/LBMC/tree/main/python/verify_cost.py)
 
 The key idea of verification is to proof that our proposed cost algorithms can get exactly the same results.
 
@@ -24,20 +24,20 @@ In `verify_cost.py` the following code snippet will verify the results of the co
 
 #### How to calculate drop patterns and rise patterns:
 Please refer to [```calculate_drop_pattern```](
-https://anonymous.4open.science/r/LearnSFC-B6D8/python/utils.py#L50)
-and [```calculate_rise_pattern```](https://anonymous.4open.science/r/LearnSFC-B6D8/python/utils.py#L64).
+https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L50)
+and [```calculate_rise_pattern```](https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L64).
 
 You can find the description of the above code in Page 6 around Line 678 with highlighted title: "Efficient counting of rise and drop patterns."
 
 
 #### Cost for *n* queries and *m* BMCs:
 
-Global Cost: please refer to [```global_cost```](https://anonymous.4open.science/r/LearnSFC-B6D8/python/global_cost.py#L115)
+Global Cost: please refer to [```global_cost```](https://github.com/Liuguanli/LBMC/tree/main/python/global_cost.py#L115)
 
 Please refer to formula (6) in Page 5 around line 470.
 
 
-Local Cost: Please refer to [```local_cost```](https://anonymous.4open.science/r/LearnSFC-B6D8/python/local_cost.py#L137)
+Local Cost: Please refer to [```local_cost```](https://github.com/Liuguanli/LBMC/tree/main/python/local_cost.py#L137)
 
 Please refer to Algorithm 2 in Page 8 around line 813.
 
@@ -49,16 +49,16 @@ All used datasets are listed: [here](https://drive.google.com/drive/folders/1RK1
 
 #### Integrate cost estimations to BMTree
 
-Please refer to [```Learned-BMTree```](https://anonymous.4open.science/r/LearnSFC-B6D8/Learned-BMTree/utils/metric_compute.py#L184)
+Please refer to [```Learned-BMTree```](https://github.com/Liuguanli/LBMC/tree/main/Learned-BMTree/utils/metric_compute.py#L184)
 
 <!-- This part is for Section 6.3. -->
 
 
 #### Comparison via PostgreSQL
 
-For BMTree, please refer to [```Learned-BMTree pg_test.py```](https://anonymous.4open.science/r/LearnSFC-B6D8/Learned-BMTree/pg_test.py)
+For BMTree, please refer to [```Learned-BMTree pg_test.py```](https://github.com/Liuguanli/LBMC/tree/main/Learned-BMTree/pg_test.py)
 
-For others, please refer to [```LearnSFC pg_test.py```](https://anonymous.4open.science/r/LearnSFC-B6D8/python/pg_test.py)
+For others, please refer to [```LearnSFC pg_test.py```](https://github.com/Liuguanli/LBMC/tree/main/python/pg_test.py)
 <!-- 
 This part is used in Section 6.4. If you want to run the code, please add the [datasets](https://drive.google.com/drive/folders/15fTAbMIuJSNF1o3t36NODuaahtt3O7IV) to `./Learned-BMTree/data/` -->
 
@@ -83,7 +83,7 @@ https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3h
 
 #### Run queries on Hudi
 
-For NYC dataset, please refer to [```nyc.scala```](https://anonymous.4open.science/r/LearnSFC-B6D8/hudi/scala/nyc.scala)
+For NYC dataset, please refer to [```nyc.scala```](https://github.com/Liuguanli/LBMC/tree/main/hudi/scala/nyc.scala)
 
-For TPC-H dataset, please refer to [```tpc.scala```](https://anonymous.4open.science/r/LearnSFC-B6D8/hudi/scala/tpc.scala)
+For TPC-H dataset, please refer to [```tpc.scala```](https://github.com/Liuguanli/LBMC/tree/main/hudi/scala/tpc.scala)
 
