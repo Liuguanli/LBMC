@@ -1,7 +1,11 @@
 ## LBMC
 
+### Main Implementation
 
-### E1:
+The main implementation of the LBMC (Learning-Based Multi-dimensional Cost model) can be found in the following directories:
+
+1. **Cost Calculation**: The cost calculation code is in `python/global_cost.py` and `python/local_cost.py`. These files contain implementations for the global and local cost calculations as outlined in the paper.
+2. **Verification and Utilities**: Additional verification and utility functions, including those for cost verification, drop patterns, and rise patterns, are located in `python/verify_cost.py` and `python/utils.py`.
 
 #### The verification of the correctness of our cost modelling
 [./python/verify_cost.py](https://github.com/Liuguanli/LBMC/tree/main/python/verify_cost.py)
@@ -22,6 +26,15 @@ Please refer to [```calculate_drop_pattern```](
 https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L50)
 and [```calculate_rise_pattern```](https://github.com/Liuguanli/LBMC/tree/main/python/utils.py#L64).
 
+
+
+### Experimental Sections
+
+The experiments in the paper are divided into three main sections, each with corresponding code and dataset information as follows:
+
+---
+
+### E1:
 
 
 #### Cost for *n* queries and *m* BMCs:

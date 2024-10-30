@@ -3,9 +3,9 @@
 "query num": "100",
 "name": "nyc",
 "measurements": [
-{"query": "Q1", "cpuTime": 1492, "IO":392.24},
-{"query": "Q2", "cpuTime": 1265, "IO":195.82},
-{"query": "Q3", "cpuTime": 1210, "IO":190.74},
-{"query": "Q4", "cpuTime": 416, "IO":77.07},
-{"query": "Q5", "cpuTime": 320, "IO":180.15}
+{"query": "Q1", "cpuTime": 2790, "IO":431.69},
+{"query": "Q2", "cpuTime": 2352, "IO":216.10},
+{"query": "Q3", "cpuTime": 2315, "IO":209.49},
+{"query": "Q4", "cpuTime": 788, "IO":85.13},
+{"query": "Q5", "cpuTime": 658, "IO":198.96}
 ]}
